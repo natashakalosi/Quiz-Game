@@ -1,4 +1,4 @@
-# Quiz Came
+# Quiz Game
 
 A console-based quiz game written in C++. 
 
