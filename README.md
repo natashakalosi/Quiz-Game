@@ -2,8 +2,6 @@
 
 A console-based quiz game written in C++. 
 
-The application demonstrates the use of structs, vectors, and basic control flow to create an interactive multiple-choice experience.
-
 Features
 - Multiple-choice format (A, B, or C).
 - Real-time feedback for correct and incorrect answers.
